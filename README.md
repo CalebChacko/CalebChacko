@@ -7,7 +7,7 @@ I'm currently seeking a Fall 2022 internship as a Data Scientist or ML Engineer.
 My previous experience includes:
 - Machine Learning Engineer at [Daily Blends](https://www.dailyblends.com/)
 - Data Scientist at [Goldspot Discoveries](https://goldspot.ca/our-technology/)
-- Software Developer positions at Bold Commerce, PSI Technologies, and Bell and Howell
+- Software Developer positions at Bold Commerce, PSI Technologies, and Bell & Howell
 
 ### 🆕 Latest Projects
 - Designing machine learning application to find best value real estate
