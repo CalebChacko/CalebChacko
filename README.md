@@ -1,7 +1,7 @@
 ### Hey! 👋🏼
 <img align='right' src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300">
 
-I'm Caleb, a Computer Engineering student at the University of Waterloo <img src="assets/waterloo_logo.png" alt="drawing" width="20"/>. I'm a data scientist, developer, and passionate problem solver. Lately, I've focused my time and energy on building machine learning models that can apply to areas in life common to everyone. 
+I'm Caleb, a Computer Engineering student at the University of Waterloo <img src="assets/waterloo_logo.png" alt="drawing" width="15"/>. I'm a data scientist, developer, and passionate problem solver. Lately, I've focused my time and energy on building machine learning models that can apply to areas in life common to everyone. 
 
 I'm currently seeking a Fall 2022 internship as a Data Scientist or ML Engineer. 
 My previous experience includes:
@@ -9,7 +9,7 @@ My previous experience includes:
 - Data Scientist at [Goldspot Discoveries](https://goldspot.ca/our-technology/)
 - Software Developer positions at Bold Commerce, PSI Technologies, and Bell and Howell
 
-### 🆕 Latest Projects
+### <img src="assets/new_logo.png" alt="drawing" width="30"/> Latest Projects
 - Designing machine learning application to find best value real estate
 - Learning Sentiment Analysis to find Waterloo's best bubble tea shop
 - Constructing a personal website using three.js
