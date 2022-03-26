@@ -15,7 +15,7 @@ My previous experience includes:
 - Constructing a personal website using three.js
 
 ### 💬 Connect with me on: 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jennifer-jy-zhang/)](https://www.linkedin.com/in/calebchacko/) [![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:ctchacko@uwaterloo.ca)](mailto:ctchacko@uwaterloo.ca)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jennifer-jy-zhang/)](https://www.linkedin.com/in/calebchacko/) [![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:ctchacko@uwaterloo.ca)](mailto:caleb.chacko@uwaterloo.ca)
 
 <!--
 **CalebChacko/CalebChacko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
