@@ -10,8 +10,8 @@ My previous experience includes:
 - Software Developer positions at Bold Commerce, PSI Technologies, and Bell & Howell
 
 ### <img src="assets/new_logo.png" alt="drawing" width="30"/> Latest Projects
-- Designing machine learning application to find best value real estate
-- Learning Sentiment Analysis to find Waterloo's best bubble tea shop
+- Learning Sentiment Analysis to find the "Happiest Meal" ([Happy Meals](https://github.com/CalebChacko/happy-meals))
+- Designing machine learning application to find best ROR real estate locations ([Property Ignite](https://github.com/CalebChacko/property-ignite))
 - Constructing a personal website using three.js
 
 ### 💬 Connect with me on: 
